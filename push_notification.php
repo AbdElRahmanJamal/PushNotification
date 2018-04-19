@@ -9,6 +9,7 @@
 			);
 
 		$headers = array(
+		//Authorization:key is ur firebase project key
 			'Authorization:key =AAAAxlqmvT0:APA91bEONf7564c52Ay1rPO8JVsTllqMmdiNvXAXmW8r5AkdWnyWn2Tz5vxwX9X6OkZkNIoKDrNp6v8dH5cyVNVufVkef61-P4GTFrXHyYWdF-Jz8BrVuaKA4TMS0NkUYL2xYWO68qiQ',
 			'Content-Type: application/json'
 			);
