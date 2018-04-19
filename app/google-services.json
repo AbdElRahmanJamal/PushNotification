@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "851924401469",
+    "firebase_url": "https://fcmpushnotificationandroidphp.firebaseio.com",
+    "project_id": "fcmpushnotificationandroidphp",
+    "storage_bucket": "fcmpushnotificationandroidphp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851924401469:android:60299077fc280d44",
+        "android_client_info": {
+          "package_name": "fcmpushnotificationandroidphpmysql.example.com.fcmpushnotificationandroidphpmysql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851924401469-t02l1acl3tlro6hmkrqo98mvpko8arpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fcmpushnotificationandroidphpmysql.example.com.fcmpushnotificationandroidphpmysql",
+            "certificate_hash": "11f23582856c58608eed961c496ac2f276c2a319"
+          }
+        },
+        {
+          "client_id": "851924401469-nrkv54nee1mfhshkr6ocje0fdmor7tko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkvwtcvwOCT8XsvLSlcWwpk6sE7Qen5xo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851924401469-nrkv54nee1mfhshkr6ocje0fdmor7tko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
